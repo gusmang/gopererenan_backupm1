@@ -1,0 +1,122 @@
+.donasi-container-header{
+    width:95%;
+    height:auto;
+    margin:20px auto 0 auto;
+    padding:12px 0 0 0;
+}
+
+.donasi-container-header h3{
+    font-size:14px;
+    text-align:left;
+    font-weight:normal;
+}
+
+.listview{
+    width:100%;
+}
+
+
+.listview .view{
+    background:#FFFFFF;
+    width:92%;
+    height:50px;
+    padding:0 3px 17px 3px;
+    margin:auto;
+    border-bottom:1px solid #CCCCCC;
+}
+
+.signIn-container{
+    width:90%;
+    margin:20px auto;
+    text-align:center;
+    font-size:14px;
+    font-weight:normal;
+}
+
+footer a{
+    color:#7f7f7f;
+}
+
+footer a:hover{
+    color:#9f9f9f;
+}
+
+footer a.facebook:hover{
+    color:blue;
+    /* color:#ddd; */
+}
+
+footer a.youtube:hover{
+    color:#ff0000;
+    /* color:#ddd; */
+}
+
+footer a.whatsapp:hover{
+    color:green;
+    /* color:#ddd; */
+}
+
+footer a.instagram:hover{
+    color:purple;
+    /* color:#ddd; */
+}
+
+
+.signIn-container .masuk a{
+    color:rgb(0, 174, 239);
+}
+
+.nama-donasi{
+    font-size:12px;
+}
+
+.normal-donasi{
+    font-size:14px;
+}
+
+
+
+
+.pick-list{
+    width:70px;
+    height:30px;
+    font-size:12px;
+    padding:5px;
+    background:rgb(0, 174, 239);
+    border-radius:20px;
+    margin-top:-8px;
+    text-align:center;
+    color:#FFFFFF;
+    cursor:pointer;
+}
+
+.listview .itemview{
+    background:#FFFFFF;
+    width:70px;
+    height:40px;
+    float:left;
+    margin-right:25px;
+}
+
+.listview .itemviewtext{
+    background:#FFFFFF;
+    height:40px;
+    float:left;
+    margin-right:10px;
+    font-weight:normal;
+    margin-top:8px;
+}
+
+.listview .view .itemviewtext h5{
+    font-size:14px;
+    font-weight:normal!important;
+    text-align:left;
+    padding:0!important; 
+    margin:0!important;
+}
+
+@media only screen and (max-width: 767px) {
+    .header-custom h5{
+        font-size:17px;
+    }
+}

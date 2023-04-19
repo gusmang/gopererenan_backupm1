@@ -1,0 +1,104 @@
+.listview{
+    width:100%;
+}
+
+.listview .header{
+    background:#EEEEEE;
+    padding:15px;
+    width:100%;
+    height:60px;
+}
+
+.listview .header h5{
+    font-size:15px;
+    font-weight:normal;
+}
+
+.listview .view-pick{
+    background:#FFFFFF;
+    width:92%;
+    height:60px;
+    padding:17px 3px 17px 3px;
+    margin:auto;
+    border-bottom:1px solid #CCCCCC;
+    cursor:pointer;
+}
+
+.listview .view{
+    background:#FFFFFF;
+    width:92%;
+    height:60px;
+    padding:17px 3px 17px 3px;
+    margin:auto;
+    border-bottom:1px solid #CCCCCC;
+    cursor:pointer;
+}
+
+.listview .view:hover{
+    color:rgb(0, 174, 239);
+}
+
+.listview .itemview{
+    background:#FFFFFF;
+    width:70px;
+    height:40px;
+    float:left;
+    margin-right:25px;
+}
+
+.listview .viewnoborder{
+    background:#FFFFFF;
+    width:92%;
+    height:60px;
+    padding:17px 3px 17px 3px;
+    margin:auto;
+    border-bottom:1px solid #CCCCCC;
+}
+
+.listview .itemviewtext{
+    background:#FFFFFF;
+    height:40px;
+    float:left;
+    margin-right:10px;
+    font-weight:normal;
+    margin-top:-5px;
+}
+
+.listview .itemviewtextsingle{
+    background:#FFFFFF;
+    height:40px;
+    float:left;
+    margin-right:10px;
+    font-weight:normal;
+}
+
+.listview .view .itemviewtextsingle h5{
+    font-size:14px;
+    font-weight:normal;
+}
+
+.listview .itemview img{
+    margin-top:-5px;
+}
+
+.listview .view .itemviewtext h5{
+    font-size:14px;
+    font-weight:normal!important;
+    text-align:left;
+    padding:0!important; 
+    margin:0!important;
+}
+
+.listview .view-pick .itemviewtext h5{
+    font-size:14px;
+    font-weight:normal!important;
+    text-align:left;
+    padding:0!important; 
+    margin-top:5px!important;
+}
+
+.itemsnewsmall{
+    font-size:11px;
+    color:rgb(0, 174, 239);
+    font-weight:bold;
+}

@@ -1,0 +1,56 @@
+#header-laporan{
+    width:100%;
+    padding:20px;
+}
+
+.left-float{
+    float:left;
+}
+
+.sub-header{
+    padding:10px;
+    box-sizing:border-box;
+}
+
+.sub-header h1{
+    font-size:28px;
+    padding:5px;
+    margin:5px;
+}
+
+.sub-header h5{
+    font-size:14px;
+    padding:5px;
+    margin:5px;
+}
+
+.barline-1{
+    width:100%;
+    height:5px;
+    background:#000000;
+}
+
+.barline-2{
+    width:100%;
+    height:1px;
+    margin-top:2px;
+    background:#000000;
+}
+
+table thead {
+    background: #044c92;
+    color: #FFFFFF;
+}
+
+.title-laporan-new{
+    font-size:24px;
+    padding:2px;
+    margin:0;
+}
+
+.sub-title-laporan-new{
+    font-size:18px;
+    font-weight:normal;
+    padding:2px;
+    margin:0;
+}
